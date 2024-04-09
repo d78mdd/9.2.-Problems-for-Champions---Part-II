@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Passion Days", "01. Pas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. X Expression", "02. X Expression\02. X Expression.csproj", "{7EBC1FED-F375-40F4-B3BD-62028CF70B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. X Expression using Console.Read", "02. X Expression using Console.Read\02. X Expression using Console.Read.csproj", "{51BF821E-E6A6-4A5F-80C1-DF38796A26F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7EBC1FED-F375-40F4-B3BD-62028CF70B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EBC1FED-F375-40F4-B3BD-62028CF70B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EBC1FED-F375-40F4-B3BD-62028CF70B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BF821E-E6A6-4A5F-80C1-DF38796A26F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BF821E-E6A6-4A5F-80C1-DF38796A26F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BF821E-E6A6-4A5F-80C1-DF38796A26F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BF821E-E6A6-4A5F-80C1-DF38796A26F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
